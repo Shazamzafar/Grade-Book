@@ -1,0 +1,10 @@
+John,88,78
+Kim,75,80
+Shazam,94,92
+Jeff,70,81
+David,12,18
+Zane,87,77
+Logan,81,75
+Tom,79,88
+Criss,97,76
+Paul,79,85

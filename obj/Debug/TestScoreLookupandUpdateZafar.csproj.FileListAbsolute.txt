@@ -1,0 +1,30 @@
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.pdb
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.csprojResolveAssemblyReference.cache
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.Form1.resources
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.Properties.Resources.resources
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.csproj.GenerateResource.Cache
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+E:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
+F:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+F:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+F:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
+D:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+D:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+D:\C#\Homework\TestScoreLookupandUpdateZafar\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.pdb
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.csprojResolveAssemblyReference.cache
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.Form1.resources
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.Properties.Resources.resources
+E:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.csproj.GenerateResource.Cache
+F:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+F:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+F:\C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
+D:\Spring Semester 2019\CPT-2320 - C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\bin\Debug\TestScoreLookupandUpdateZafar.exe.config
+D:\Spring Semester 2019\CPT-2320 - C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.exe
+D:\Spring Semester 2019\CPT-2320 - C#\Test 4\HomeWork\TestScorewithStructureArray\TestScoreLookupandUpdateZafar\obj\Debug\TestScoreLookupandUpdateZafar.pdb
